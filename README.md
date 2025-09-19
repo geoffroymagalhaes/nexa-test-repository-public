@@ -6,7 +6,7 @@
 
 # 📖 Readme
 
-Bienvenue dans le Readme du projet tout le monde !
+Bienvenue dans le Readme du projet tout le monde !!!!
 Vous trouverez ici des ressources en **français** et en **anglais**.
 
 ---
@@ -14,12 +14,14 @@ Vous trouverez ici des ressources en **français** et en **anglais**.
 ## Sommaire
 
 ### Français
+
 - [Introduction](./wiki/fr/introduction.md)
 - [Installation](./wiki/fr/installation.md)
 - [Utilisation](./wiki/fr/utilisation.md)
 - [FAQ](./wiki/fr/faq.md)
 
 ### English
+
 - [Introduction](./wiki/en/introduction.md)
 - [Installation](./wiki/en/installation.md)
 - [Usage](./wiki/en/usage.md)
